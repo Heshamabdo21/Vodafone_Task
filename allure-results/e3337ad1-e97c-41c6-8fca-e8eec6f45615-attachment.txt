@@ -1,0 +1,24 @@
+[ReportManager] Setting discrete logging to: "false" @06-03-2022 18:18:52.0845 PM
+
+################################################################################################################################################
+Starting Execution:	[3 out of 2] test cases in the current suite
+Test Method:		[tests.gui.YouTube.PageObjectTests.OpenYoutubeMainPage]
+################################################################################################################################################
+[ReportManager] Setting discrete logging to: "true" @06-03-2022 18:18:52.0846 PM
+[ReportManager] Target URL: [https://www.youtube.com/] @06-03-2022 18:18:52.0846 PM
+[ReportManager] Initial URL: [data:,] @06-03-2022 18:18:52.0954 PM
+[ReportManager] File Action [CreateFile] successfully performed. With the following test data [Target Folder: "allure-results//screenshots/20220306-181754", Target File: "\1646583551544_OpenYoutubeMainPage.gif"]. @06-03-2022 18:19:11.0625 PM
+[ReportManager] Browser Action [NavigateToURL] successfully performed. With the following test data [https://www.youtube.com/]. @06-03-2022 18:19:11.0920 PM
+[ReportManager] Element Action [IsElementDisplayed] successfully performed. @06-03-2022 18:19:12.0431 PM
+[ReportManager] Element Action [IsElementClickable] successfully performed. @06-03-2022 18:19:14.0947 PM
+[ReportManager] Element Action [IsElementClickable] successfully performed. @06-03-2022 18:19:16.0087 PM
+[ReportManager] Element Action [IsElementClickable] successfully performed. @06-03-2022 18:19:17.0592 PM
+[ReportManager] Element Action [IsElementDisplayed] successfully performed. @06-03-2022 18:19:18.0884 PM
+[ReportManager] Setting discrete logging to: "true" @06-03-2022 18:19:18.0885 PM
+[ReportManager] Element Action [GetText] successfully performed. @06-03-2022 18:19:20.0601 PM
+[ReportManager] Setting discrete logging to: "true" @06-03-2022 18:19:20.0601 PM
+[ReportManager] Setting discrete logging to: "true" @06-03-2022 18:19:20.0604 PM
+[ReportManager] Assertion Failed: Asserting that the correct result is displayed @06-03-2022 18:19:22.0152 PM
+[ReportManager] Successfully created attachment [Screenshot - 1646583561979_OpenYoutubeMainPage_ValidateElementAttribute_failed] @06-03-2022 18:19:22.0165 PM
+[ReportManager] Assertion [ValidateElementAttribute] FAILED. Expected [Value Should be 'Selenium Tutorial For Beginners | What Is Selenium? | Selenium Automation Testing Tutorial | Edureka' for the 'Text' attribute, element locator 'By.xpath: //div[5]/div[1]/div/div[6]/div[2]/ytd-video-primary-info-renderer/div/h1/yt-formatted-string'] and Actual []. Comparison Type [CONTAINS]. Validation Type [POSITIVE]. @06-03-2022 18:19:22.0165 PM
+[ReportManager] Successfully created attachment [Animated Gif - OpenYoutubeMainPage] @06-03-2022 18:19:22.0177 PM

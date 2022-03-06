@@ -1,0 +1,6 @@
+[ReportManager] Successfully created attachment [Video Recording - afterMethod] @06-03-2022 18:18:47.0559 PM
+[ReportManager] Successfully created attachment [Selenium WebDriver Logs - performance] @06-03-2022 18:18:47.0872 PM
+[ReportManager] Successfully created attachment [Selenium WebDriver Logs - browser] @06-03-2022 18:18:47.0879 PM
+[ReportManager] Successfully created attachment [Selenium WebDriver Logs - driver] @06-03-2022 18:18:48.0254 PM
+[ReportManager] Browser Action [CloseCurrentWindow] successfully performed. @06-03-2022 18:18:48.0756 PM
+[ReportManager] Successfully created attachment [Browser Action Test Data - CloseCurrentWindow - Actual Value] @06-03-2022 18:18:48.0807 PM

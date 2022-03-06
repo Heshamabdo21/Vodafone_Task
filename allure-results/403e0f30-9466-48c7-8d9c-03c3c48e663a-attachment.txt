@@ -1,0 +1,23 @@
+[ReportManager] Setting discrete logging to: "false" @06-03-2022 18:19:39.0986 PM
+
+################################################################################################################################################
+Starting Execution:	[4 out of 2] test cases in the current suite
+Test Method:		[tests.gui.YouTube.PageObjectTests.OpenYoutubeMainPage]
+################################################################################################################################################
+[ReportManager] Setting discrete logging to: "true" @06-03-2022 18:19:39.0986 PM
+[ReportManager] Target URL: [https://www.youtube.com/] @06-03-2022 18:19:39.0987 PM
+[ReportManager] Initial URL: [data:,] @06-03-2022 18:19:40.0049 PM
+[ReportManager] File Action [CreateFile] successfully performed. With the following test data [Target Folder: "allure-results//screenshots/20220306-181754", Target File: "\1646583597536_OpenYoutubeMainPage.gif"]. @06-03-2022 18:19:57.0649 PM
+[ReportManager] Browser Action [NavigateToURL] successfully performed. With the following test data [https://www.youtube.com/]. @06-03-2022 18:19:58.0130 PM
+[ReportManager] Element Action [IsElementDisplayed] successfully performed. @06-03-2022 18:19:59.0136 PM
+[ReportManager] Element Action [IsElementClickable] successfully performed. @06-03-2022 18:20:01.0988 PM
+[ReportManager] Element Action [IsElementClickable] successfully performed. @06-03-2022 18:20:02.0946 PM
+[ReportManager] Element Action [IsElementClickable] successfully performed. @06-03-2022 18:20:05.0037 PM
+[ReportManager] Element Action [IsElementDisplayed] successfully performed. @06-03-2022 18:20:07.0155 PM
+[ReportManager] Setting discrete logging to: "true" @06-03-2022 18:20:07.0155 PM
+[ReportManager] Element Action [GetText] successfully performed. With the following test data [Selenium Full Course Tutorial | Selenium Tutorial For Beginners | Selenium Webdriver | Simplilearn]. @06-03-2022 18:20:07.0874 PM
+[ReportManager] Setting discrete logging to: "true" @06-03-2022 18:20:07.0875 PM
+[ReportManager] Assertion Passed: Asserting that the correct result is displayed @06-03-2022 18:20:09.0219 PM
+[ReportManager] Successfully created attachment [Screenshot - 1646583609018_OpenYoutubeMainPage_ValidateElementAttribute_passed] @06-03-2022 18:20:09.0224 PM
+[ReportManager] Assertion [ValidateElementAttribute] PASSED. Expected [Value Should be 'Selenium Full Course Tutorial | Selenium Tutorial For Beginners | Selenium Webdriver | Simplilearn' for the 'Text' attribute, element locator 'By.xpath: //div[5]/div[1]/div/div[6]/div[2]/ytd-video-primary-info-renderer/div/h1/yt-formatted-string'] and Actual [Selenium Full Course Tutorial | Selenium Tutorial For Beginners | Selenium Webdriver | Simplilearn]. Comparison Type [CONTAINS]. Validation Type [POSITIVE]. @06-03-2022 18:20:09.0224 PM
+[ReportManager] Successfully created attachment [Animated Gif - OpenYoutubeMainPage] @06-03-2022 18:20:09.0230 PM

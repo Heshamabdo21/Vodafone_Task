@@ -1,0 +1,366 @@
+################################################################################################################################################
+Detected SHAFT Engine Version: [SHAFT Engine v6.1.20220113]
+################################################################################################################################################
+[ReportManager] Setting discrete logging to: "false" @06-03-2022 18:17:48.0290 PM
+
+################################################################################################################################################
+Starting Execution:	[1 out of 2] test cases in the current suite
+Test Method:		[tests.gui.YouTube.APITest.validateUserEmail]
+################################################################################################################################################
+[ReportManager] Setting discrete logging to: "true" @06-03-2022 18:17:48.0291 PM
+[ReportManager] Setting discrete logging to: "true" @06-03-2022 18:17:52.0811 PM
+[ReportManager] Response status code: [200], status line: [HTTP/1.1 200 OK] @06-03-2022 18:17:52.0811 PM
+[ReportManager] Assertion Passed: Evaluating the actual response status code against the expected one... @06-03-2022 18:17:52.0832 PM
+[ReportManager] Assertion [ValidateComparativeRelation] PASSED. Expected [200] and Actual [200]. Comparison Type [EQUALS]. Validation Type [POSITIVE]. @06-03-2022 18:17:52.0844 PM
+[ReportManager] Setting discrete logging to: "true" @06-03-2022 18:17:52.0846 PM
+[ReportManager] API Response - REST Body:
+[
+  {
+    "website": "hildegard.org",
+    "address": {
+      "zipcode": "92998-3874",
+      "geo": {
+        "lng": "81.1496",
+        "lat": "-37.3159"
+      },
+      "suite": "Apt. 556",
+      "city": "Gwenborough",
+      "street": "Kulas Light"
+    },
+    "phone": "1-770-736-8031 x56442",
+    "name": "Leanne Graham",
+    "company": {
+      "bs": "harness real-time e-markets",
+      "catchPhrase": "Multi-layered client-server neural-net",
+      "name": "Romaguera-Crona"
+    },
+    "id": 1,
+    "email": "Sincere@april.biz",
+    "username": "Bret"
+  },
+  {
+    "website": "anastasia.net",
+    "address": {
+      "zipcode": "90566-7771",
+      "geo": {
+        "lng": "-34.4618",
+        "lat": "-43.9509"
+      },
+      "suite": "Suite 879",
+      "city": "Wisokyburgh",
+      "street": "Victor Plains"
+    },
+    "phone": "010-692-6593 x09125",
+    "name": "Ervin Howell",
+    "company": {
+      "bs": "synergize scalable supply-chains",
+      "catchPhrase": "Proactive didactic contingency",
+      "name": "Deckow-Crist"
+    },
+    "id": 2,
+    "email": "Shanna@melissa.tv",
+    "username": "Antonette"
+  },
+  {
+    "website": "ramiro.info",
+    "address": {
+      "zipcode": "59590-4157",
+      "geo": {
+        "lng": "-47.0653",
+        "lat": "-68.6102"
+      },
+      "suite": "Suite 847",
+      "city": "McKenziehaven",
+      "street": "Douglas Extension"
+    },
+    "phone": "1-463-123-4447",
+    "name": "Clementine Bauch",
+    "company": {
+      "bs": "e-enable strategic applications",
+      "catchPhrase": "Face to face bifurcated interface",
+      "name": "Romaguera-Jacobson"
+    },
+    "id": 3,
+    "email": "Nathan@yesenia.net",
+    "username": "Samantha"
+  },
+  {
+    "website": "kale.biz",
+    "address": {
+      "zipcode": "53919-4257",
+      "geo": {
+        "lng": "-164.2990",
+        "lat": "29.4572"
+      },
+      "suite": "Apt. 692",
+      "city": "South Elvis",
+      "street": "Hoeger Mall"
+    },
+    "phone": "493-170-9623 x156",
+    "name": "Patricia Lebsack",
+    "company": {
+      "bs": "transition cutting-edge web services",
+      "catchPhrase": "Multi-tiered zero tolerance productivity",
+      "name": "Robel-Corkery"
+    },
+    "id": 4,
+    "email": "Julianne.OConner@kory.org",
+    "username": "Karianne"
+  },
+  {
+    "website": "demarco.info",
+    "address": {
+      "zipcode": "33263",
+      "geo": {
+        "lng": "62.5342",
+        "lat": "-31.8129"
+      },
+      "suite": "Suite 351",
+      "city": "Roscoeview",
+      "street": "Skiles Walks"
+    },
+    "phone": "(254)954-1289",
+    "name": "Chelsey Dietrich",
+    "company": {
+      "bs": "revolutionize end-to-end systems",
+      "catchPhrase": "User-centric fault-tolerant solution",
+      "name": "Keebler LLC"
+    },
+    "id": 5,
+    "email": "Lucio_Hettinger@annie.ca",
+    "username": "Kamren"
+  },
+  {
+    "website": "ola.org",
+    "address": {
+      "zipcode": "23505-1337",
+      "geo": {
+        "lng": "71.7478",
+        "lat": "-71.4197"
+      },
+      "suite": "Apt. 950",
+      "city": "South Christy",
+      "street": "Norberto Crossing"
+    },
+    "phone": "1-477-935-8478 x6430",
+    "name": "Mrs. Dennis Schulist",
+    "company": {
+      "bs": "e-enable innovative applications",
+      "catchPhrase": "Synchronised bottom-line interface",
+      "name": "Considine-Lockman"
+    },
+    "id": 6,
+    "email": "Karley_Dach@jasper.info",
+    "username": "Leopoldo_Corkery"
+  },
+  {
+    "website": "elvis.io",
+    "address": {
+      "zipcode": "58804-1099",
+      "geo": {
+        "lng": "21.8984",
+        "lat": "24.8918"
+      },
+      "suite": "Suite 280",
+      "city": "Howemouth",
+      "street": "Rex Trail"
+    },
+    "phone": "210.067.6132",
+    "name": "Kurtis Weissnat",
+    "company": {
+      "bs": "generate enterprise e-tailers",
+      "catchPhrase": "Configurable multimedia task-force",
+      "name": "Johns Group"
+    },
+    "id": 7,
+    "email": "Telly.Hoeger@billy.biz",
+    "username": "Elwyn.Skiles"
+  },
+  {
+    "website": "jacynthe.com",
+    "address": {
+      "zipcode": "45169",
+      "geo": {
+        "lng": "-120.7677",
+        "lat": "-14.3990"
+      },
+      "suite": "Suite 729",
+      "city": "Aliyaview",
+      "street": "Ellsworth Summit"
+    },
+    "phone": "586.493.6943 x140",
+    "name": "Nicholas Runolfsdottir V",
+    "company": {
+      "bs": "e-enable extensible e-tailers",
+      "catchPhrase": "Implemented secondary concept",
+      "name": "Abernathy Group"
+    },
+    "id": 8,
+    "email": "Sherwood@rosamond.me",
+    "username": "Maxime_Nienow"
+  },
+  {
+    "website": "conrad.com",
+    "address": {
+      "zipcode": "76495-3109",
+      "geo": {
+        "lng": "-168.8889",
+        "lat": "24.6463"
+      },
+      "suite": "Suite 449",
+      "city": "Bartholomebury",
+      "street": "Dayna Park"
+    },
+    "phone": "(775)976-6794 x41206",
+    "name": "Glenna Reichert",
+    "company": {
+      "bs": "aggregate real-time technologies",
+      "catchPhrase": "Switchable contextually-based project",
+      "name": "Yost and Sons"
+    },
+    "id": 9,
+    "email": "Chaim_McDermott@dana.io",
+    "username": "Delphine"
+  },
+  {
+    "website": "ambrose.net",
+    "address": {
+      "zipcode": "31428-2261",
+      "geo": {
+        "lng": "57.2232",
+        "lat": "-38.2386"
+      },
+      "suite": "Suite 198",
+      "city": "Lebsackbury",
+      "street": "Kattie Turnpike"
+    },
+    "phone": "024-648-3804",
+    "name": "Clementina DuBuque",
+    "company": {
+      "bs": "target end-to-end models",
+      "catchPhrase": "Centralized empowering task-force",
+      "name": "Hoeger LLC"
+    },
+    "id": 10,
+    "email": "Rey.Padberg@karina.biz",
+    "username": "Moriah.Stanton"
+  }
+] @06-03-2022 18:17:54.0567 PM
+[ReportManager] API Action [PerformRequest] successfully performed. With the following test data [Request Type: "GET" | Target Status Code: "200" | Service URL: "https://jsonplaceholder.typicode.com/users" | Content Type: "*/*" | Response Time: "1808ms"]. @06-03-2022 18:17:54.0568 PM
+[ReportManager] API Action [GetResponseJSONValueAsList] successfully performed. With the following test data [$]. @06-03-2022 18:17:54.0597 PM
+[ReportManager] API Action [GetResponseJSONValue] successfully performed. With the following test data [id]. @06-03-2022 18:17:54.0632 PM
+[ReportManager] API Action [GetResponseJSONValue] successfully performed. With the following test data [id]. @06-03-2022 18:17:54.0654 PM
+[ReportManager] API Action [GetResponseJSONValue] successfully performed. With the following test data [id]. @06-03-2022 18:17:54.0677 PM
+[ReportManager] API Action [GetResponseJSONValue] successfully performed. With the following test data [id]. @06-03-2022 18:17:54.0700 PM
+[ReportManager] API Action [GetResponseJSONValue] successfully performed. With the following test data [id]. @06-03-2022 18:17:54.0727 PM
+[ReportManager] API Action [GetResponseJSONValue] successfully performed. With the following test data [id]. @06-03-2022 18:17:54.0748 PM
+[ReportManager] API Action [GetResponseJSONValue] successfully performed. With the following test data [id]. @06-03-2022 18:17:54.0767 PM
+[ReportManager] API Action [GetResponseJSONValue] successfully performed. With the following test data [id]. @06-03-2022 18:17:54.0788 PM
+[ReportManager] API Action [GetResponseJSONValue] successfully performed. With the following test data [id]. @06-03-2022 18:17:54.0809 PM
+[ReportManager] API Action [GetResponseJSONValue] successfully performed. With the following test data [id]. @06-03-2022 18:17:54.0834 PM
+[ReportManager] File Action [GetAbsolutePath] successfully performed. With the following test data [Relative Folder Path: "target/downloadedFiles/"]. @06-03-2022 18:17:56.0793 PM
+[ReportManager] Attempting to run locally on: [Windows-64], [GoogleChrome]. @06-03-2022 18:17:56.0819 PM
+[ReportManager] Identifying OS/Driver combination and selecting the correct driver version automatically. Please note that if a new driver executable will be downloaded it may take some time... @06-03-2022 18:17:56.0820 PM
+[ReportManager] Successfully Opened Google Chrome. @06-03-2022 18:18:00.0545 PM
+[ReportManager] Setting discrete logging to: "false" @06-03-2022 18:18:00.0959 PM
+
+################################################################################################################################################
+Starting Execution:	[2 out of 2] test cases in the current suite
+Test Method:		[tests.gui.YouTube.PageObjectTests.OpenYoutubeMainPage]
+################################################################################################################################################
+[ReportManager] Setting discrete logging to: "true" @06-03-2022 18:18:00.0960 PM
+[ReportManager] Target URL: [https://www.youtube.com/] @06-03-2022 18:18:00.0970 PM
+[ReportManager] Initial URL: [data:,] @06-03-2022 18:18:01.0141 PM
+[ReportManager] File Action [CreateFile] successfully performed. With the following test data [Target Folder: "allure-results//screenshots/20220306-181754", Target File: "\1646583496700_OpenYoutubeMainPage.gif"]. @06-03-2022 18:18:17.0364 PM
+[ReportManager] Browser Action [NavigateToURL] successfully performed. With the following test data [https://www.youtube.com/]. @06-03-2022 18:18:18.0341 PM
+[ReportManager] Element Action [IsElementDisplayed] successfully performed. @06-03-2022 18:18:19.0262 PM
+[ReportManager] Element Action [IsElementClickable] successfully performed. @06-03-2022 18:18:22.0447 PM
+[ReportManager] Element Action [IsElementClickable] successfully performed. @06-03-2022 18:18:23.0321 PM
+[ReportManager] Element Action [IsElementClickable] successfully performed. @06-03-2022 18:18:25.0171 PM
+[ReportManager] Element Action [IsElementDisplayed] successfully performed. @06-03-2022 18:18:26.0267 PM
+[ReportManager] Setting discrete logging to: "true" @06-03-2022 18:18:26.0276 PM
+[ReportManager] Element Action [GetText] successfully performed. With the following test data [Selenium Course for Beginners - Web Scraping Bots, Browser Automation, Testing (Tutorial)]. @06-03-2022 18:18:27.0965 PM
+[ReportManager] Setting discrete logging to: "true" @06-03-2022 18:18:27.0965 PM
+[ReportManager] Assertion Passed: Asserting that the correct result is displayed @06-03-2022 18:18:30.0974 PM
+[ReportManager] Successfully created attachment [Screenshot - 1646583510684_OpenYoutubeMainPage_ValidateElementAttribute_passed] @06-03-2022 18:18:31.0024 PM
+[ReportManager] Assertion [ValidateElementAttribute] PASSED. Expected [Value Should be 'Selenium Course for Beginners - Web Scraping Bots, Browser Automation, Testing (Tutorial)' for the 'Text' attribute, element locator 'By.xpath: //div[5]/div[1]/div/div[6]/div[2]/ytd-video-primary-info-renderer/div/h1/yt-formatted-string'] and Actual [Selenium Course for Beginners - Web Scraping Bots, Browser Automation, Testing (Tutorial)]. Comparison Type [CONTAINS]. Validation Type [POSITIVE]. @06-03-2022 18:18:31.0024 PM
+[ReportManager] Successfully created attachment [Animated Gif - OpenYoutubeMainPage] @06-03-2022 18:18:31.0034 PM
+[ReportManager] Successfully created attachment [Video Recording - afterMethod] @06-03-2022 18:18:47.0559 PM
+[ReportManager] Successfully created attachment [Selenium WebDriver Logs - performance] @06-03-2022 18:18:47.0872 PM
+[ReportManager] Successfully created attachment [Selenium WebDriver Logs - browser] @06-03-2022 18:18:47.0879 PM
+[ReportManager] Successfully created attachment [Selenium WebDriver Logs - driver] @06-03-2022 18:18:48.0254 PM
+[ReportManager] Browser Action [CloseCurrentWindow] successfully performed. @06-03-2022 18:18:48.0756 PM
+[ReportManager] Successfully created attachment [Browser Action Test Data - CloseCurrentWindow - Actual Value] @06-03-2022 18:18:48.0807 PM
+[ReportManager] File Action [GetAbsolutePath] successfully performed. With the following test data [Relative Folder Path: "target/downloadedFiles/"]. @06-03-2022 18:18:49.0323 PM
+[ReportManager] Attempting to run locally on: [Windows-64], [GoogleChrome]. @06-03-2022 18:18:49.0323 PM
+[ReportManager] Identifying OS/Driver combination and selecting the correct driver version automatically. Please note that if a new driver executable will be downloaded it may take some time... @06-03-2022 18:18:49.0324 PM
+[ReportManager] Successfully Opened Google Chrome. @06-03-2022 18:18:52.0794 PM
+[ReportManager] Setting discrete logging to: "false" @06-03-2022 18:18:52.0845 PM
+
+################################################################################################################################################
+Starting Execution:	[3 out of 2] test cases in the current suite
+Test Method:		[tests.gui.YouTube.PageObjectTests.OpenYoutubeMainPage]
+################################################################################################################################################
+[ReportManager] Setting discrete logging to: "true" @06-03-2022 18:18:52.0846 PM
+[ReportManager] Target URL: [https://www.youtube.com/] @06-03-2022 18:18:52.0846 PM
+[ReportManager] Initial URL: [data:,] @06-03-2022 18:18:52.0954 PM
+[ReportManager] File Action [CreateFile] successfully performed. With the following test data [Target Folder: "allure-results//screenshots/20220306-181754", Target File: "\1646583551544_OpenYoutubeMainPage.gif"]. @06-03-2022 18:19:11.0625 PM
+[ReportManager] Browser Action [NavigateToURL] successfully performed. With the following test data [https://www.youtube.com/]. @06-03-2022 18:19:11.0920 PM
+[ReportManager] Element Action [IsElementDisplayed] successfully performed. @06-03-2022 18:19:12.0431 PM
+[ReportManager] Element Action [IsElementClickable] successfully performed. @06-03-2022 18:19:14.0947 PM
+[ReportManager] Element Action [IsElementClickable] successfully performed. @06-03-2022 18:19:16.0087 PM
+[ReportManager] Element Action [IsElementClickable] successfully performed. @06-03-2022 18:19:17.0592 PM
+[ReportManager] Element Action [IsElementDisplayed] successfully performed. @06-03-2022 18:19:18.0884 PM
+[ReportManager] Setting discrete logging to: "true" @06-03-2022 18:19:18.0885 PM
+[ReportManager] Element Action [GetText] successfully performed. @06-03-2022 18:19:20.0601 PM
+[ReportManager] Setting discrete logging to: "true" @06-03-2022 18:19:20.0601 PM
+[ReportManager] Setting discrete logging to: "true" @06-03-2022 18:19:20.0604 PM
+[ReportManager] Assertion Failed: Asserting that the correct result is displayed @06-03-2022 18:19:22.0152 PM
+[ReportManager] Successfully created attachment [Screenshot - 1646583561979_OpenYoutubeMainPage_ValidateElementAttribute_failed] @06-03-2022 18:19:22.0165 PM
+[ReportManager] Assertion [ValidateElementAttribute] FAILED. Expected [Value Should be 'Selenium Tutorial For Beginners | What Is Selenium? | Selenium Automation Testing Tutorial | Edureka' for the 'Text' attribute, element locator 'By.xpath: //div[5]/div[1]/div/div[6]/div[2]/ytd-video-primary-info-renderer/div/h1/yt-formatted-string'] and Actual []. Comparison Type [CONTAINS]. Validation Type [POSITIVE]. @06-03-2022 18:19:22.0165 PM
+[ReportManager] Successfully created attachment [Animated Gif - OpenYoutubeMainPage] @06-03-2022 18:19:22.0177 PM
+[ReportManager] Successfully created attachment [Video Recording - afterMethod] @06-03-2022 18:19:36.0550 PM
+[ReportManager] Successfully created attachment [Selenium WebDriver Logs - performance] @06-03-2022 18:19:36.0697 PM
+[ReportManager] Successfully created attachment [Selenium WebDriver Logs - browser] @06-03-2022 18:19:36.0703 PM
+[ReportManager] Successfully created attachment [Selenium WebDriver Logs - driver] @06-03-2022 18:19:36.0997 PM
+[ReportManager] Browser Action [CloseCurrentWindow] successfully performed. @06-03-2022 18:19:37.0432 PM
+[ReportManager] Successfully created attachment [Browser Action Test Data - CloseCurrentWindow - Actual Value] @06-03-2022 18:19:37.0464 PM
+[ReportManager] File Action [GetAbsolutePath] successfully performed. With the following test data [Relative Folder Path: "target/downloadedFiles/"]. @06-03-2022 18:19:37.0689 PM
+[ReportManager] Attempting to run locally on: [Windows-64], [GoogleChrome]. @06-03-2022 18:19:37.0689 PM
+[ReportManager] Identifying OS/Driver combination and selecting the correct driver version automatically. Please note that if a new driver executable will be downloaded it may take some time... @06-03-2022 18:19:37.0689 PM
+[ReportManager] Successfully Opened Google Chrome. @06-03-2022 18:19:39.0923 PM
+[ReportManager] Setting discrete logging to: "false" @06-03-2022 18:19:39.0986 PM
+
+################################################################################################################################################
+Starting Execution:	[4 out of 2] test cases in the current suite
+Test Method:		[tests.gui.YouTube.PageObjectTests.OpenYoutubeMainPage]
+################################################################################################################################################
+[ReportManager] Setting discrete logging to: "true" @06-03-2022 18:19:39.0986 PM
+[ReportManager] Target URL: [https://www.youtube.com/] @06-03-2022 18:19:39.0987 PM
+[ReportManager] Initial URL: [data:,] @06-03-2022 18:19:40.0049 PM
+[ReportManager] File Action [CreateFile] successfully performed. With the following test data [Target Folder: "allure-results//screenshots/20220306-181754", Target File: "\1646583597536_OpenYoutubeMainPage.gif"]. @06-03-2022 18:19:57.0649 PM
+[ReportManager] Browser Action [NavigateToURL] successfully performed. With the following test data [https://www.youtube.com/]. @06-03-2022 18:19:58.0130 PM
+[ReportManager] Element Action [IsElementDisplayed] successfully performed. @06-03-2022 18:19:59.0136 PM
+[ReportManager] Element Action [IsElementClickable] successfully performed. @06-03-2022 18:20:01.0988 PM
+[ReportManager] Element Action [IsElementClickable] successfully performed. @06-03-2022 18:20:02.0946 PM
+[ReportManager] Element Action [IsElementClickable] successfully performed. @06-03-2022 18:20:05.0037 PM
+[ReportManager] Element Action [IsElementDisplayed] successfully performed. @06-03-2022 18:20:07.0155 PM
+[ReportManager] Setting discrete logging to: "true" @06-03-2022 18:20:07.0155 PM
+[ReportManager] Element Action [GetText] successfully performed. With the following test data [Selenium Full Course Tutorial | Selenium Tutorial For Beginners | Selenium Webdriver | Simplilearn]. @06-03-2022 18:20:07.0874 PM
+[ReportManager] Setting discrete logging to: "true" @06-03-2022 18:20:07.0875 PM
+[ReportManager] Assertion Passed: Asserting that the correct result is displayed @06-03-2022 18:20:09.0219 PM
+[ReportManager] Successfully created attachment [Screenshot - 1646583609018_OpenYoutubeMainPage_ValidateElementAttribute_passed] @06-03-2022 18:20:09.0224 PM
+[ReportManager] Assertion [ValidateElementAttribute] PASSED. Expected [Value Should be 'Selenium Full Course Tutorial | Selenium Tutorial For Beginners | Selenium Webdriver | Simplilearn' for the 'Text' attribute, element locator 'By.xpath: //div[5]/div[1]/div/div[6]/div[2]/ytd-video-primary-info-renderer/div/h1/yt-formatted-string'] and Actual [Selenium Full Course Tutorial | Selenium Tutorial For Beginners | Selenium Webdriver | Simplilearn]. Comparison Type [CONTAINS]. Validation Type [POSITIVE]. @06-03-2022 18:20:09.0224 PM
+[ReportManager] Successfully created attachment [Animated Gif - OpenYoutubeMainPage] @06-03-2022 18:20:09.0230 PM
+[ReportManager] Successfully created attachment [Video Recording - afterMethod] @06-03-2022 18:20:22.0020 PM
+[ReportManager] Successfully created attachment [Selenium WebDriver Logs - performance] @06-03-2022 18:20:22.0171 PM
+[ReportManager] Successfully created attachment [Selenium WebDriver Logs - browser] @06-03-2022 18:20:22.0176 PM
+[ReportManager] Successfully created attachment [Selenium WebDriver Logs - driver] @06-03-2022 18:20:22.0444 PM
+[ReportManager] Browser Action [CloseCurrentWindow] successfully performed. @06-03-2022 18:20:22.0850 PM
+[ReportManager] Successfully created attachment [Browser Action Test Data - CloseCurrentWindow - Actual Value] @06-03-2022 18:20:22.0887 PM
+[ReportManager] Successfully created attachment [SHAFT Engine Logs - Execution log] @06-03-2022 18:20:23.0165 PM
+
+################################################################################################################################################
+This test run was powered by SHAFT Engine Version: [SHAFT Engine v6.1.20220113]
+SHAFT Engine is licensed under the MIT License: [https://github.com/MohabMohie/SHAFT_ENGINE/blob/master/LICENSE].
+################################################################################################################################################

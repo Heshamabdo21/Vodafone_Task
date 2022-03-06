@@ -1,0 +1,23 @@
+[ReportManager] Setting discrete logging to: "false" @06-03-2022 18:18:00.0959 PM
+
+################################################################################################################################################
+Starting Execution:	[2 out of 2] test cases in the current suite
+Test Method:		[tests.gui.YouTube.PageObjectTests.OpenYoutubeMainPage]
+################################################################################################################################################
+[ReportManager] Setting discrete logging to: "true" @06-03-2022 18:18:00.0960 PM
+[ReportManager] Target URL: [https://www.youtube.com/] @06-03-2022 18:18:00.0970 PM
+[ReportManager] Initial URL: [data:,] @06-03-2022 18:18:01.0141 PM
+[ReportManager] File Action [CreateFile] successfully performed. With the following test data [Target Folder: "allure-results//screenshots/20220306-181754", Target File: "\1646583496700_OpenYoutubeMainPage.gif"]. @06-03-2022 18:18:17.0364 PM
+[ReportManager] Browser Action [NavigateToURL] successfully performed. With the following test data [https://www.youtube.com/]. @06-03-2022 18:18:18.0341 PM
+[ReportManager] Element Action [IsElementDisplayed] successfully performed. @06-03-2022 18:18:19.0262 PM
+[ReportManager] Element Action [IsElementClickable] successfully performed. @06-03-2022 18:18:22.0447 PM
+[ReportManager] Element Action [IsElementClickable] successfully performed. @06-03-2022 18:18:23.0321 PM
+[ReportManager] Element Action [IsElementClickable] successfully performed. @06-03-2022 18:18:25.0171 PM
+[ReportManager] Element Action [IsElementDisplayed] successfully performed. @06-03-2022 18:18:26.0267 PM
+[ReportManager] Setting discrete logging to: "true" @06-03-2022 18:18:26.0276 PM
+[ReportManager] Element Action [GetText] successfully performed. With the following test data [Selenium Course for Beginners - Web Scraping Bots, Browser Automation, Testing (Tutorial)]. @06-03-2022 18:18:27.0965 PM
+[ReportManager] Setting discrete logging to: "true" @06-03-2022 18:18:27.0965 PM
+[ReportManager] Assertion Passed: Asserting that the correct result is displayed @06-03-2022 18:18:30.0974 PM
+[ReportManager] Successfully created attachment [Screenshot - 1646583510684_OpenYoutubeMainPage_ValidateElementAttribute_passed] @06-03-2022 18:18:31.0024 PM
+[ReportManager] Assertion [ValidateElementAttribute] PASSED. Expected [Value Should be 'Selenium Course for Beginners - Web Scraping Bots, Browser Automation, Testing (Tutorial)' for the 'Text' attribute, element locator 'By.xpath: //div[5]/div[1]/div/div[6]/div[2]/ytd-video-primary-info-renderer/div/h1/yt-formatted-string'] and Actual [Selenium Course for Beginners - Web Scraping Bots, Browser Automation, Testing (Tutorial)]. Comparison Type [CONTAINS]. Validation Type [POSITIVE]. @06-03-2022 18:18:31.0024 PM
+[ReportManager] Successfully created attachment [Animated Gif - OpenYoutubeMainPage] @06-03-2022 18:18:31.0034 PM
